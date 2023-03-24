@@ -1,4 +1,4 @@
-# Basics
+
 ## Pointers
 ### Taking value from the user,displaying the value and address of pointer variable.
 
